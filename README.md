@@ -1,2 +1,2 @@
-# AufgabeB_Ver1
+# Aufgabe_A&B
 Aufgabe für Softwareprozess und Quality
